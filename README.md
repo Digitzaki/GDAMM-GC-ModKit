@@ -14,4 +14,19 @@
 
 ---
 
+## Please read the Guides found inside the ModKit!!
+
+To read the `.md` Guides better:
+
+1. Open in Notepad
+2. Click `View` --> `Markdown` --> `Formatted`
+
+**Good Luck Have Fun!**
+
+---
+- Due to dtkmake.exe Requirements for Soundtrack Builder, No Linux release yet...
+`You can find how to get this requirement in the Music Guide`
+
+> Could reverse-engineer it... But, that's another problem for another day.
+---
 After downloading, extract the archive to begin!
