@@ -1,0 +1,44 @@
+In order to run DTK-DAMM Requires:
+
+
+1) dtkmake.exe from the GameCube SDK (This can be found online pretty easily, Internet Archive I think)
+
+2) Download GCN UberInstaller v1.4 or similar, it will be inside the installation. ("\DolphinSDK1.0\X86\bin\dtkmake.exe")
+
+3) Please find it and move it into the same location as DTK-DAMM.exe
+
+!! It will now run, but follow below !!
+
+
+==== Quick Usage ====
+
+1) Takes .wav files
+
+2) Must match their in game names:
+
+---------------------------
+title_theme.wav
+
+fight1.wav
+
+fight2.wav
+
+fight3.wav
+
+fight4.wav
+
+fight5.wav
+
+fight6.wav
+---------------------------
+
+
+== Once you put these files in the same location as dtkmake.exe and DTK-DAMM.exe and run DTK-DAMM, it'll generate working music files! ==
+
+
+
+
+
+
+
+
