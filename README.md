@@ -24,8 +24,9 @@ To read the `.md` Guides better:
 **Good Luck Have Fun!**
 
 ---
-- Due to dtkmake.exe Requirements for Soundtrack Builder, No Linux release yet...
-`You can find how to get this requirement in the Music Guide`
+- Due to `dtkmake.exe` requirements for Soundtrack Builder, there is currently no Linux release yet...
+
+`GCN Uber-Installer v1.4 or equivalent is required to acquire dtkmake.exe. Usage instructions can be found in the Music Guide.`
 
 > Could reverse-engineer it... But, that's another problem for another day.
 ---
